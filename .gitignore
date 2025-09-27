@@ -1,0 +1,33 @@
+# Byte-compiled / Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset files
+train.csv
+test.csv
+train_preprocessed.csv
+test_preprocessed.csv
+*.csv
+
+# Model artifacts
+*.joblib
+*.pkl
+
+# Submission files
+*_submission.csv
+
+# Visualizations
+*.png
+*.jpg
+
+# OS-specific
+.DS_Store
+Thumbs.db
